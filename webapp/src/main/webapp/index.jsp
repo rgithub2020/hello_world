@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>Page Title</title>
-</head>
-<body >
+<body style="background-color:powderblue;">
 
-<h1>first DEVOPS Project</h1>
-<p>Tolls used Jenkins,Docker and Ansible.</p>
+<h1>Welcome to Devops world</h1>
+<h2>First devops project</h2>
+<p>jenkins ,Ansible and docker.</p>
 
 </body>
 </html>
+
 
