@@ -1,2 +1,13 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> WelCome to Devops </h2>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body >
+
+<h1>first DEVOPS Project</h1>
+<p>Tolls used Jenkins,Docker and Ansible.</p>
+
+</body>
+</html>
+
