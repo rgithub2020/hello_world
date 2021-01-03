@@ -2,7 +2,7 @@
 <html>
 <body style="background-color:powderblue;">
 
-<h1>Welcome to Devops world</h1>
+<h1><font color="green">Welcome to Devops world</font></h1>
 <h2>First devops project</h2>
 <p>jenkins ,Ansible and docker.</p>
 
