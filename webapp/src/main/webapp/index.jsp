@@ -10,13 +10,11 @@
 <h2><p style="color:yellow;">Continuous Integration (CI):</p><h2>
 
 
-<p>Continuous Integration (CI) is the process of automating the build and testing of code every time a team member commits changes to version control/GIT.</p>
+<span style="color:cyan;"><p>Continuous Integration (CI) is the process of automating the build and testing of code every time a team member commits changes to version control/GIT.</p></span>
 <p style="color:yellow;"><h1>Continuous Delivery (CD)</h1></p>
-<p>Continuous Delivery (CD) is the process to build, test, configure and deploy from a build to a production environment</p>
+<span style="color:blue;"><p>Continuous Delivery (CD) is the process to build, test, configure and deploy from a build to a production environment</p></span>
 
 
-
-<p>...or you can change the text   color of one <span style="color:green;">word</span> or even a single l<span style="color:red;">e</span>tter.</p>
 
 
 
