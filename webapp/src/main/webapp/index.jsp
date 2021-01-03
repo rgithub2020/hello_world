@@ -7,9 +7,9 @@
 <h1>
 
 <p style="color:blue;">jenkins ,Ansible and docker.</p></h1>
-<p style="color:yellow;"><h1>
+<h2><p style="color:yellow;">Continuous Integration (CI):</p><h2>
 
-Continuous Integration (CI):</h1></p>
+
 <p>Continuous Integration (CI) is the process of automating the build and testing of code every time a team member commits changes to version control/GIT.</p>
 <p style="color:yellow;"><h1>Continuous Delivery (CD)</h1></p>
 <p>Continuous Delivery (CD) is the process to build, test, configure and deploy from a build to a production environment</p>
